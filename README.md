@@ -11,9 +11,6 @@ Welcome to **StoreBilling**, a user-friendly billing system designed specificall
 - **Invoice Management:** Generate bills and sales reports for easy invoicing.
 - **Billing Screen:** Generate and print customer bills directly from the app.
 
-## 📸 Screenshots
-- 🔑 **Login Screen**
-- 🛠️ **Inventory Management**
 
 ## 💡 How to Get Started?
 To get started with StoreBilling, follow the installation steps below to set up the environment.
@@ -59,7 +56,7 @@ bash
 `python app.py`
 
 ## 🖼️ User Guide
-- **Admin Login**: Log in with the admin credentials to access all functionalities such as employee and inventory management.
+- **Admin Login**: Log in with the admin credentials to access all functionalities such as employee and inventory management.[username: admin01  ,password: admin01]
 - **Employee Login**: Employees can log in using their credentials to access the billing interface.
 - **Generate Bills**: Once logged in, employees can generate bills for customers, which can be printed directly from the billing screen.
 - **Barcode Generation**: Admins can generate barcode stickers for all products with a single click.
