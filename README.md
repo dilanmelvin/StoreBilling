@@ -56,7 +56,8 @@ bash
 `python app.py`
 
 ## 🖼️ User Guide
-- **Admin Login**: Log in with the admin credentials to access all functionalities such as employee and inventory management.[username: admin01  ,password: admin01]
+- **Admin Login**: Log in with the admin credentials to access all functionalities such as employee and inventory management.
+- **[Username: admin01  ,Password: admin01]**
 - **Employee Login**: Employees can log in using their credentials to access the billing interface.
 - **Generate Bills**: Once logged in, employees can generate bills for customers, which can be printed directly from the billing screen.
 - **Barcode Generation**: Admins can generate barcode stickers for all products with a single click.
